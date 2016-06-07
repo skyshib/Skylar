@@ -1,0 +1,11 @@
+id,brand_name,name,possible_duplicate_brand_name,possible_duplicate_name
+1,Kroger,Jasmine Tea,krgr,tea
+2,Johnson and Johnson,Shampoo,Johnson and Johnson,shampoo
+3,,tomato,,Tomatoes
+4,Campbells,Chicken Noodle Soup,Campbell's,Chckn Noodle Soup
+5,Driscoll's,Blueberries,Driscoll's,Blueberries
+6,,cherry tomatoes,,grape tomatoes
+7,Kirkland,Chicken Sandwiches,Kirkland,Chicken Sandwich
+8,Kirkland,Spinach,Kirkland,spinach leaves
+9,Dreyers,Chocolate Ice Cream,Dreyer's,Chocolate Cream Ice
+10,Tropicana,Orange Juice,Tropicana,orange juice
